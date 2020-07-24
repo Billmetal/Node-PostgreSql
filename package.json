@@ -1,0 +1,14 @@
+{
+  "name": "aula_node_postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^7.18.2",
+    "sequelize": "^4.42.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Bill Metal",
+  "license": "MIT"
+}
